@@ -1,6 +1,6 @@
 # OpenGL_task
 ## Decription  
-Creating the window with the color #25854b. When pressing lmb, red triangle will be created, which will follow cursor while lmb is pressed  
+Creates the window with the color #25854b. When pressing lmb, red triangle will be created, which will follow cursor while lmb is pressed  
 ## Prerequisites  
 1. Linux: Kernel: 5.10.23-1-MANJARO  
 2. GCC version: 10.2.0  
